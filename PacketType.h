@@ -31,6 +31,7 @@ enum PacketTypes
 //
 // 2학기 Windows OS 실습 시간에 다룬 주제
 // http://blog.naver.com/pjbmylove/110177847013 참조
+// http://www.slideshare.net/mooneegee/alignment-33682466 참조
 //////////////////////////////////////////////////////////////////////////
 
 struct PacketHeader
